@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syeda Isha Hasham</h1>
-<h3 align="center">I’m Syeda Isha Hasham, a passionate MERN stack developer with experience in building dynamic and user-friendly web applications. My focus lies in creating scalable applications using modern technologies like React for front-end, Node.js for back-end, Express for APIs, and Firebase for database management. I am constantly exploring new technologies and practices to enhance my skills and deliver high-quality software solutions.</h3>
+<h6 align="center">I’m Syeda Isha Hasham, a passionate MERN stack developer with experience in building dynamic and user-friendly web applications. My focus lies in creating scalable applications using modern technologies like React for front-end, Node.js for back-end, Express for APIs, and Firebase for database management. I am constantly exploring new technologies and practices to enhance my skills and deliver high-quality software solutions.</h3>
 
 <img align="right" width="400"  src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg" alt="coding">
 
